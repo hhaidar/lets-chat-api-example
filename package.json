@@ -1,0 +1,16 @@
+{
+    "name": "lets-chat-api-example",
+    "version": "0.0.1",
+    "author": "Houssam Haidar <houssam@sdelements.com>",
+    "keywords": [
+        "chat",
+        "group chat"
+    ],
+    "dependencies": {
+        "socket.io-client": "*"
+    },
+    "engine": {
+        "node": ">=0.7"
+    }
+}
+
